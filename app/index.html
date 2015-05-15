@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]>      <html lang="en-us" class="ie8"> <![endif]-->
+<!--[if IE 9]>         <html lang="en-us" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-us"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="images/favicon.ico">
+
+    <title>Web Studio Web 2</title>
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link href="vendor/bootstrap.min.css" rel="stylesheet"> -->
+
+    <!-- Custom styles for this template -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <!-- Reveal Presentation framework -->
+    <link rel="stylesheet" href="/reveal/reveal.min.css">
+    <link rel="stylesheet" href="/reveal/plugins/highlight/styles/obsidian.css">
+    <link rel="stylesheet" href="/reveal/theme/default.css" id="theme">
+
+    <link href="css/global.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+      <script>
+        var head = document.getElementsByTagName('head')[0],
+        style = document.createElement('style');
+        style.type = 'text/css';
+        style.styleSheet.cssText = ':before,:after{content:none !important';
+        head.appendChild(style);
+        setTimeout(function(){
+            head.removeChild(style);
+        }, 0);
+      </script>
+    <![endif]-->
+
+  </head>
+
+<body>
+
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+           <section data-markdown="/classes/webstudio-2-fall2015.md" data-separator="^\n---\n$" data-vertical="^\n--\n$" data-charset="iso-8859-15" data-background="#333">
+            </section>
+        </div>
+    </div>
+
+</body>
+
+<script src="js/jquery-1.10.2.min.js"></script>
+
+<script src="/reveal/reveal.min.js"></script>
+<script src="/reveal/plugins/markdown/marked.js"></script>
+<script src="/reveal/plugins/markdown/markdown.js"></script>
+
+<script>
+
+  Reveal.initialize({
+    transition: 'concave',
+    slideNumber: true,
+    viewDistance: 5,
+    history: true
+  });
+
+  $('pre code').each(function(i, block) {
+    hljs.highlightBlock(block);
+  });
+
+</script>
+
+
+</html>
+
+
+

@@ -1,0 +1,8 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.reveal section img{
+  min-height: 385px;
+}
