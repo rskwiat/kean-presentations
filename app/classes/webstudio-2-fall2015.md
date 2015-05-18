@@ -54,6 +54,12 @@ Learned Web Development post college
 
 ---
 
+## Proper Folder Structure of a Web Application
+
+
+
+---
+
 ## Tools & Accounts
 
 --
