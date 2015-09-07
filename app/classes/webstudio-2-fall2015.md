@@ -1,17 +1,14 @@
-Welcome to
-----------
+# Kean Webstudio 2
 
-Kean WebStudio 2
-================
+## GD-4320
 
 --
 
-Who am I?
----------
+## Robert Skwiat
 
-### Robert Skwiat
+Digital Developer at Mediabrix
 
-Senior Web Developer at Spies &amp; Assassins
+Former Senior Web Developer at Spies &amp; Assassins
 
 Former Kean Graduate
 
@@ -19,8 +16,7 @@ Learned Web Development post college
 
 ---
 
-Course Outcomes and Goals
--------------------------
+## Course Outcomes and Goals
 
 --
 
@@ -48,39 +44,57 @@ Course Outcomes and Goals
 
 ---
 
-Adobe Muse
-----------
+### Adobe Muse
+### WYSIWYG Editors
 
-WYSIWYG Editors
----------------
 
 ![](http://media3.giphy.com/media/qwYALpESkAk7u/giphy.gif)
 
+---
+
+## Proper Folder Structure of a Web Application
+
 --
 
-CMS / Themes
-------------
+## Setting up a Wordpress.org account 
 
-SquareSpace
------------
+--
 
-![](http://media.giphy.com/media/v0eHX3n28wvoQ/giphy.gif)
+## Mobile development and responsive design.
+
+--
+
+## Flexbox and HTML5 Video / Audio
+
+--
+
+## LocalStorage and Cookies
 
 ---
 
-Proper Folder Structure of a Web Application
---------------------------------------------
+## Supplies
 
----
+* Personal Laptop
+* Modern Web Browsers - Safari, Chrome, Firefox and Microsoft Edge or IE10+
+* Text Editor - Sublime Text, Atom or Brackets
+* Vector / Raster Editor - PhotoShop / Illustrator or Alternatives
+* Sketchbook - for notes / drawings
 
-Tools & Accounts
-----------------
+--
+
+## Optional Tools
+
+* Udemy Complete Web Developer Course ($10)
+* Bohemian Coding Sketch ($49 w/ edu email)
+* Github Education Pack - Hosting, services, text editors, etc! Will talk about this as well.
 
 --
 
 ### Accounts
 
-Github - https://education.github.com/pack
+Slack Account - https://slack.com
+
+Github - https://github.com
 
 CodePen - http://codepen.io/
 
@@ -96,20 +110,16 @@ Visual Studio Code - https://code.visualstudio.com/
 
 --
 
-### Terminals
+## On Web Typography by Jason Santa Maria
+
+![](http://cdn.shopify.com/s/files/1/0051/7692/products/ABA-hero-11.jpg?v=1407242872)
+
+--
+
+### Responsive Web Design by Ethan Marcotte
+
+![](http://cdn.shopify.com/s/files/1/0051/7692/products/ABA-hero-4_c97486bb-368b-4a52-8d53-72e7d35848e0.jpg?v=1417531418)
 
 ---
 
-Windows Users
--------------
-
-Putty
-
----
-
-Mac OS X Users
---------------
-
-Terminal
-
-iTerm
+## Questions?
